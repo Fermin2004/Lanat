@@ -11,8 +11,6 @@
 
 <br><br>
 
-AAAAAAAAAAAAAAAAAAAAAAAA
-
 > [!IMPORTANT]
 > **This project is still in development.** It is not recommended to use Lanat in production, as it could possibly
 > have important issues. It is also quickly evolving, thus breaking changes are constantly being made.
